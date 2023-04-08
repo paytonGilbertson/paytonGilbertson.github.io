@@ -282,7 +282,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px;
+		/*border-bottom: solid 1px;*/
 		margin: 2em 0;
 	}
 
@@ -3791,7 +3791,7 @@ input, select, textarea {
 /* Added by me*/
 .thumbImage {
 	border-radius: 5%;
-	width: 15em;
+	width: 12em;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
